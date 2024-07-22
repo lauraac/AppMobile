@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color> <!-- Asegúrate de incluir este color -->
+    <color name="background_top">#EDE7F6</color> <!-- Lila claro -->
+    <color name="background_bottom">#C5CAE9</color> <!-- Azul claro -->
+    <color name="text_color">#212121</color> <!-- Gris oscuro -->
+    <color name="link_color">#0288D1</color> <!-- Azul oscuro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+</resources>
+
+
